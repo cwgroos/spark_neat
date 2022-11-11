@@ -5,7 +5,7 @@ mccabe==0.6.1
 neat-python==0.92
 py4j==0.10.7
 pylint==2.3.1
-pyspark==2.4.3
+pyspark==3.2.2
 six==1.12.0
 typed-ast==1.4.0
 wrapt==1.11.2
